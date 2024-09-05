@@ -6,7 +6,7 @@ Ce dossier Repository est lié au cours `Python : Niveau avancé`. Le cours enti
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
 
-DESCRIPTION DE LA FORMATION
+Si vous souhaitez évoluer dans la programmation avec le langage Python, suivez cette formation consacrée à ses utilisations les plus avancées. Après un rappel sur le but et les avantages du langage Python, Omar Souissi vous présentera les prérequis et l'environnement de travail. Puis, il vous aidera à appréhender, à l'aide d'exemples explicites, les meilleures pratiques, notamment dans la mise en œuvre des fonctions, des classes, des décorateurs ainsi que des itérateurs et des générateurs, tout en garantissant un code propre et optimal.
 
 ## Instructions
 
@@ -34,9 +34,9 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/python-niveau-avance
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQFw-q95lzLR3g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725449804198?e=2147483647&v=beta&t=6SEKKNQX14TDLJF6QOTO3N5O7TNy2fJHjSjfVVUjjJg
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
